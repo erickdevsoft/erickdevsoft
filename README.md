@@ -4,7 +4,7 @@
   🖥️ HMI Developer for Siemens CNC Systems | Desarrollador HMI para Controles Numéricos Siemens<br/>
   💼 Independent Developer · Solutions for SMEs | Desarrollo independiente · Soluciones para PYMEs<br/>
   💡 Passionate about industrial software & business automation<br/>
-  📍 Always learning · Siempre aprendiendo
+  📍 Spain 🇪🇸 · Always learning · Siempre aprendiendo
 </p>
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00C9FF&width=500&lines=HMI+Developer+%7C+Siemens+CNC;Full+Stack+Developer;Solutions+for+SMEs;C%23+%7C+VB.NET+%7C+JavaScript;Python+%7C+Java+%7C+C%2B%2B" alt="Typing SVG" />
