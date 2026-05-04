@@ -2,11 +2,12 @@
 
 <p align="left">
   🚀 Full Stack Developer | Desarrollador Full Stack<br/>
+  🖥️ Currently working as HMI Application Developer | Actualmente trabajando como Desarrollador de Aplicaciones HMI<br/>
   💡 Passionate about building robust and scalable solutions<br/>
   📍 Always learning · Siempre aprendiendo
 </p>
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&width=435&lines=Full+Stack+Developer;C%23+%7C+VB.NET+%7C+JavaScript;Python+%7C+Java+%7C+C%2B%2B;Always+building+something+new!" alt="Typing SVG" />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&width=435&lines=Full+Stack+Developer;HMI+Application+Developer;C%23+%7C+VB.NET+%7C+JavaScript;Python+%7C+Java+%7C+C%2B%2B;Always+building+something+new!" alt="Typing SVG" />
 
 ---
 
@@ -20,6 +21,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Focus | Especialidad**
+
+![HMI](https://img.shields.io/badge/HMI%20Development-FF6B00?style=for-the-badge&logo=windows&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+![Industrial](https://img.shields.io/badge/Industrial%20Software-005F73?style=for-the-badge&logo=buffer&logoColor=white)
 
 ---
 
