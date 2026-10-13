@@ -59,7 +59,7 @@
 ## 🌐 Connect with me | Conéctate conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/erickdevsoft" target="_blank">
+  <a href="linkedin.com/in/erick-pastrano-rimari-a92574414" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/erickdevsoft" target="_blank">
